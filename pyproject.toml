@@ -4,4 +4,6 @@ version = "0.1.0"
 description = "Finance report"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = "requirements.in"
+dependencies = [
+    "streamlit", "pandas"
+]
