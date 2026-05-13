@@ -1,7 +1,7 @@
 [project]
-name = "会所"
+name = "Dashboard"
 version = "0.1.0"
-description = "Dashboard report"
+description = "Finance report"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = "requirements.txt"
+dependencies = "requirements.in"
