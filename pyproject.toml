@@ -1,0 +1,7 @@
+[project]
+name = "会所"
+version = "0.1.0"
+description = "Dashboard report"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = "requirements.txt"
